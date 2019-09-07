@@ -1,6 +1,11 @@
 ## Mosaic Editor
 StampImage is a school project made in Generative Design class lead by Jiří Chmelík Ph.D. at Masaryk University Faculty of Informatics.
 
+![test](src/visual_clue/1_Tiles.gif)
+![test](src/visual_clue/2_Input.gif)
+![test](src/visual_clue/3_Output1.gif)
+![test](src/visual_clue/4_Output2.gif)
+![test](src/visual_clue/5_Output3.gif)
 ![test](http://samplesite.com/somesample.jpg)
 
 ![](src/visual clue/1_Tiles.gif)
