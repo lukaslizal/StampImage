@@ -1,22 +1,16 @@
 ## Mosaic Editor
 StampImage is a school project made in Generative Design class lead by Jiří Chmelík Ph.D. at Masaryk University Faculty of Informatics.
 
-![test](src/visual_clue/1_Tiles.gif)
-![test](src/visual_clue/2_Input.gif)
-![test](src/visual_clue/3_Output1.gif)
-![test](src/visual_clue/4_Output2.gif)
-![test](src/visual_clue/5_Output3.gif)
-![test](http://samplesite.com/somesample.jpg)
+![test](https://raw.githubusercontent.com/vcrexe/StampImage/master/src/visual%20clue/1_Tiles.gif)
 
-![](src/visual clue/1_Tiles.gif)
+![test](https://raw.githubusercontent.com/vcrexe/StampImage/master/src/visual%20clue/2_Input.gif)
 
-![](src/visual clue/2_Input.gif)
+![test](https://raw.githubusercontent.com/vcrexe/StampImage/master/src/visual%20clue/3_Output1.gif)
 
-![](src/visual clue/3_Output1.gif)
+![test](https://raw.githubusercontent.com/vcrexe/StampImage/master/src/visual%20clue/4_Output2.gif)
 
-![](src/visual clue/4_Output2.gif)
+![test](https://raw.githubusercontent.com/vcrexe/StampImage/master/src/visual%20clue/5_Output3.gif)
 
-![](src/visual clue/5_Output3.gif)
 
 ## Create own patterns
 
